@@ -1,0 +1,11 @@
+addWord:dog:animal 
+lookupWord:dog
+addWord:love:heart
+ addWord:bestfriend:companion
+addSynonym:dog:bestfriend 
+addSynonym:bestfriend:love 
+lookupSynonyms:dog 
+lookupSynonyms:love
+ lookupWord:love 
+ lookupWord:bestfriend
+ 
